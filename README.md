@@ -10,7 +10,7 @@ TryAgain404 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://www.itratel.cn/hello-solo)
+* [世界，你好！](https://www.itratel.cn/hello-solo)
 
 
 
