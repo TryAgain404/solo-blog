@@ -1,4 +1,4 @@
-<p align="center"><img alt="TryAgain404 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="TryAgain404 的个人博客" src="https://yaohuo.me/bbs/upload/1000/2019/09/27/11351_2100130timg.png"></p><h2 align="center">
 TryAgain404 的个人博客
 </h2>
 
@@ -10,7 +10,7 @@ TryAgain404 的个人博客
 
 ### 最新
 
-* [世界，你好！](https://www.itratel.cn/hello-solo)
+* [暂停法爆破软件](https://www.itratel.cn/articles/2019/09/27/1569576376718.html)
 
 
 
