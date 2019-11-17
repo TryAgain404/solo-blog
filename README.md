@@ -10,6 +10,7 @@ TryAgain404 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.itratel.cn/my-github-repos)
 * [暂停法爆破软件](https://www.itratel.cn/articles/2019/09/27/1569576376718.html)
 
 
